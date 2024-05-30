@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TsuCheng Lu (Alan)</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A passionate developer from Taiwan</h3>
 <img align="right" alt="analysis" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 
