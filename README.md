@@ -1,4 +1,3 @@
-<img align="center" alt="header" src="https://www.icegif.com/wp-content/uploads/icegif-87.gif">
 <h1 align="center">Hi 👋, I'm TsuCheng Lu (Alan)</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align="right" alt="analysis" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
@@ -7,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan31212&label=Profile%20views&color=0e75b6&style=flat" alt="alan31212" /> </p>
 
 
-- 🔭 I’m currently working on **Job**
+- 🔭 I’m currently working on **My databricks project**
 
 - 🌱 I’m currently learning **PowerBi, Excel**
 
-- 🤝 I’m looking for help with **Job**
+- 🤝 I’m looking for help with **Full-Time Job👔**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alan31212](https://github.com/Alan31212)
 
 - 📫 How to reach me **alan3121231212@gmail.com**
 
-- ⚡ Fun fact **talking a joke**
+- 🤡 Joke of the day **Why did Shakespeare write only using pens?**<br>**because pencils confused him 2B or not 2B**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
