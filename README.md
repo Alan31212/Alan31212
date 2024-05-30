@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm TsuCheng Lu, you can just call me Alan!</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
+<img align="right" alt="analysis" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan31212&label=Profile%20views&color=0e75b6&style=flat" alt="alan31212" /> </p>
 
