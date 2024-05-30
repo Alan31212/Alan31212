@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Full-Time Job👔**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alan31212](https://github.com/Alan31212)
+- 👨‍💻 All of my projects are available at [https://github.com/Alan31212?tab=repositories](https://github.com/Alan31212?tab=repositories)
 
 - 📫 How to reach me **alan3121231212@gmail.com**
 
