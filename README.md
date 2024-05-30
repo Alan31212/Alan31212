@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alan3121231212@gmail.com**
 
-- 🤡 Joke of the day **Why did Shakespeare write only using pens?**<br>**because pencils confused him 2B or not 2B**
+- 📌 Joke of the day 🤡 <br>**Why did Shakespeare write only using pens?**<br>**because pencils confused him 2B or not 2B**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
