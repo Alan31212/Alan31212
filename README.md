@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/OYwYE7UtTTqLBfpBS8.webp)
+<img align="center" alt="header" src="https://www.icegif.com/wp-content/uploads/icegif-87.gif">
 <h1 align="center">Hi 👋, I'm TsuCheng Lu (Alan)</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align="right" alt="analysis" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
