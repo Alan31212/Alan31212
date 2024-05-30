@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan31212&label=Profile%20views&color=0e75b6&style=flat" alt="alan31212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alan31212" alt="alan31212" /></a> </p>
 
 - 🔭 I’m currently working on **Job**
 
