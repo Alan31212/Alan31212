@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2322685/screenshots/6221645/welcome-dribbble.gif" alt="MasterHead" style="width: 600px; height: auto;"/>
+![MasterHead](https://i.giphy.com/OYwYE7UtTTqLBfpBS8.webp)
 <h1 align="center">Hi 👋, I'm TsuCheng Lu (Alan)</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 <img align="right" alt="analysis" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
